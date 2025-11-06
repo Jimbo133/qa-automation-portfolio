@@ -1,0 +1,7 @@
+# Roadmap обучения
+1. Основы тестирования
+2. Python
+3. Pytest
+4. Selenium / Playwright
+5. API тестирование
+6. CI/CD и Docker (позже)
